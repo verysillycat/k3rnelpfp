@@ -10,4 +10,4 @@ necessary files:
 3. **^** you can use a [image resizer website](https://retoucher.online/image-resizer)
 4. grab your copies and paste them into a directory
 5. take the location of the directory and paste it into k3rnelpfp  (ex: `C:\Users\username\Documents\Profile_Pictures\pixelated_silly_cat`)
-6. logout and you should see changed now
+6. logout and you should see it changed now
