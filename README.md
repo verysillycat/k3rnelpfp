@@ -2,7 +2,7 @@
 ## This is in early alpha phase, expect bugs and crashes
 Manually force change of profile picture by modifying system default user profile picture files primary made for KernelOS but works on all Windows Editions
 
-in total they are 
+you're gonna need
 ‎ `user.bmp`, `user.png`, `user-32.png`, `user-40.png`, `user-48.png`, `user-192.png` and `user-200.png`
 
 1. grab your profile picture and rename it to `user.png` make another copy of it and rename it to `user.bmp`
